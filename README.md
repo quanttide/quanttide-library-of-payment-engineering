@@ -16,8 +16,8 @@
 
 | 文档 | 说明 |
 |------|------|
-| [`docs/alipay.md`](docs/alipay.md) | 支付宝统一收单支付流程 |
-| [`docs/wechat-pay.md`](docs/wechat-pay.md) | 微信支付 V3 JSAPI 流程 |
+| [`channel/alipay.md`](channel/alipay.md) | 支付宝统一收单支付流程 |
+| [`channel/wechat-pay.md`](channel/wechat-pay.md) | 微信支付 V3 JSAPI 流程 |
 
 ## 许可
 
